@@ -1,0 +1,6 @@
+    # gh-pages branch
+    # This branch is used by GitHub Pages to deploy the website.
+    # Don't make changes to this branch directly.
+
+    # Add the production build
+    build
